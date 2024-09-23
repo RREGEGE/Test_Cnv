@@ -1,0 +1,10 @@
+C:\Users\240604\Desktop\Test\excel_test\excel_test\obj\Debug\excel_test.csproj.AssemblyReference.cache
+C:\Users\240604\Desktop\Test\excel_test\excel_test\obj\Debug\excel_test.Form1.resources
+C:\Users\240604\Desktop\Test\excel_test\excel_test\obj\Debug\excel_test.Properties.Resources.resources
+C:\Users\240604\Desktop\Test\excel_test\excel_test\obj\Debug\excel_test.csproj.GenerateResource.cache
+C:\Users\240604\Desktop\Test\excel_test\excel_test\obj\Debug\excel_test.csproj.CoreCompileInputs.cache
+C:\Users\240604\Desktop\Test\excel_test\excel_test\bin\Debug\excel_test.exe.config
+C:\Users\240604\Desktop\Test\excel_test\excel_test\bin\Debug\excel_test.exe
+C:\Users\240604\Desktop\Test\excel_test\excel_test\bin\Debug\excel_test.pdb
+C:\Users\240604\Desktop\Test\excel_test\excel_test\obj\Debug\excel_test.exe
+C:\Users\240604\Desktop\Test\excel_test\excel_test\obj\Debug\excel_test.pdb

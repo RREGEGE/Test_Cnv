@@ -1,0 +1,85 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\240604\\Desktop\\CnvTest\\Test\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{494E987B-B82F-419B-83E5-DA8600210119}|Test\\Test.csproj|C:\\Users\\240604\\Desktop\\CnvTest\\Test\\test\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{494E987B-B82F-419B-83E5-DA8600210119}|Test\\Test.csproj|solutionrelative:test\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{494E987B-B82F-419B-83E5-DA8600210119}|Test\\Test.csproj|C:\\Users\\240604\\Desktop\\CnvTest\\Test\\test\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{494E987B-B82F-419B-83E5-DA8600210119}|Test\\Test.csproj|solutionrelative:test\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{494E987B-B82F-419B-83E5-DA8600210119}|Test\\Test.csproj|c:\\users\\240604\\desktop\\cnvtest\\test\\test\\customrectangle.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{494E987B-B82F-419B-83E5-DA8600210119}|Test\\Test.csproj|solutionrelative:test\\customrectangle.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 746,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Form1.cs [\uB514\uC790\uC778]",
+              "DocumentMoniker": "C:\\Users\\240604\\Desktop\\CnvTest\\Test\\Test\\Form1.cs",
+              "RelativeDocumentMoniker": "Test\\Form1.cs",
+              "ToolTip": "C:\\Users\\240604\\Desktop\\CnvTest\\Test\\Test\\Form1.cs [\uB514\uC790\uC778]",
+              "RelativeToolTip": "Test\\Form1.cs [\uB514\uC790\uC778]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-04T01:03:21.638Z",
+              "IsPinned": true,
+              "EditorCaption": " [\uB514\uC790\uC778]"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{b1e99781-ab81-11d0-b683-00aa00a3ee26}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Form1.cs",
+              "DocumentMoniker": "C:\\Users\\240604\\Desktop\\CnvTest\\Test\\Test\\Form1.cs",
+              "RelativeDocumentMoniker": "Test\\Form1.cs",
+              "ToolTip": "C:\\Users\\240604\\Desktop\\CnvTest\\Test\\Test\\Form1.cs",
+              "RelativeToolTip": "Test\\Form1.cs",
+              "ViewState": "AQIAAFkAAAAAAAAAAAA5wGcAAAANAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-04T01:04:24.044Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "CustomRectangle.cs",
+              "DocumentMoniker": "C:\\Users\\240604\\Desktop\\CnvTest\\Test\\Test\\CustomRectangle.cs",
+              "RelativeDocumentMoniker": "Test\\CustomRectangle.cs",
+              "ToolTip": "C:\\Users\\240604\\Desktop\\CnvTest\\Test\\Test\\CustomRectangle.cs",
+              "RelativeToolTip": "Test\\CustomRectangle.cs",
+              "ViewState": "AQIAADwAAAAAAAAAAAA+wGoAAAA6AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-23T00:59:07.214Z",
+              "EditorCaption": ""
+            }
+          ]
+        },
+        {
+          "DockedWidth": 2091,
+          "SelectedChildIndex": -1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
